@@ -19,7 +19,7 @@ const IniAdalahNavbar = () => {
     full
   >
     <NavbarBrand href="/">
-      RUANG ENGINEER
+      RUANG ENGINEER (RE)
     </NavbarBrand>
     <NavbarToggler onClick={function noRefCheck(){}} />
     <Collapse navbar>
