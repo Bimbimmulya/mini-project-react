@@ -1,0 +1,42 @@
+{
+  "data": {
+    "headers": [
+      "No",
+      "name",
+      "price",
+      "stock",
+      "category",
+      "Option"
+    ],
+    "rows": [
+      {
+        "id": 1080619390219.2375,
+        "name": "Compnay Profile",
+        "price": "3000000",
+        "stock": "100",
+        "category": "COMPRO"
+      },
+      {
+        "id": 1322909355434.4858,
+        "name": "Toko Online",
+        "price": "5000000",
+        "stock": "100",
+        "category": "E-Commerce"
+      },
+      {
+        "id": 1322909355434.4858,
+        "name": "Website Personal",
+        "price": "2000000",
+        "stock": "100",
+        "category": "CV"
+      },
+      {
+        "id": 1322909355434.4858,
+        "name": "Website Inventory",
+        "price": "4000000",
+        "stock": "100",
+        "category": "Inventory"
+      }
+    ]
+  }
+}
